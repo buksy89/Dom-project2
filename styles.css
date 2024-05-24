@@ -1,0 +1,30 @@
+body {
+  /* width: 800px;
+  height: 750px; */
+  margin: 20px auto;
+  border: rgb(31, 11, 51);
+  display: grid;
+  place-items: center;
+  height: 100vh;
+  padding: 4px;
+}
+.container {
+  text-align: center;
+  margin-top: 50px;
+  color: blue;
+  font: bolder;
+}
+#color-box {
+  width: 200px;
+  height: 200px;
+  margin: 20px auto;
+  background-color: lightgray;
+  border: 2px solid #f57f7f;
+}
+#change-color-btn {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: aqua;
+  font: bold;
+  color: hsl(0, 96%, 18%);
+}
